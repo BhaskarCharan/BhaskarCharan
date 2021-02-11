@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Charan Potnuru</h1>
 <h3 align="center">E & C student | VIIT</h3>
